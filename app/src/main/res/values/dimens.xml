@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="elevacion_action_bar">4dp</dimen>
+    <dimen name="images_card_height">150dp</dimen>
+    <dimen name="margenes_deLayout">10dp</dimen>
+    <dimen name="margen_acumulador">238dp</dimen>
+    <dimen name="largo_card">250dp</dimen>
+</resources>

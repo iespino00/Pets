@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="nombre_card">Nombre</string>
+    <string name="huesitos_acum">Huesitos</string>
+</resources>
